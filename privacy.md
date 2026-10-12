@@ -29,4 +29,4 @@ Operation of Sutorit requires neither a residential router, an active internet c
 ## 6. Contact Us
 If you have any questions or suggestions about our true automation architecture, please contact us at:
 
-**Email:** sutorit@sutorit.in
+**Email:** support@sutorit.in
